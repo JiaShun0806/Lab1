@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-native-run-configurations" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="remove-java-aware-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\TARUC\MyFirstApp\.idea\codeStyles\Project.xml" timestamp="1526960928017" />
+    <file path="C:\Users\TARUC\MyFirstApp\.idea\gradle.xml" timestamp="1526960927989" />
+    <file path="C:\Users\TARUC\MyFirstApp\.idea\libraries\Gradle__android_arch_core_common_1_1_0_jar.xml" timestamp="1526961077044" />
+    <file path="C:\Users\TARUC\MyFirstApp\.idea\libraries\Gradle__android_arch_core_runtime_1_1_0.xml" timestamp="1526961077059" />
+    <file path="C:\Users\TARUC\MyFirstApp\.idea\libraries\Gradle__android_arch_lifecycle_common_1_1_0_jar.xml" timestamp="1526961077076" />
+    <file path="C:\Users\TARUC\MyFirstApp\.idea\libraries\Gradle__android_arch_lifecycle_livedata_core_1_1_0.xml" timestamp="1526961077094" />
+    <file path="C:\Users\TARUC\MyFirstApp\.idea\libraries\Gradle__android_arch_lifecycle_runtime_1_1_0.xml" timestamp="1526961077109" />
+    <file path="C:\Users\TARUC\MyFirstApp\.idea\libraries\Gradle__android_arch_lifecycle_viewmodel_1_1_0.xml" timestamp="1526961077132" />
+    <file path="C:\Users\TARUC\MyFirstApp\.idea\libraries\Gradle__com_android_support_animated_vector_drawable_27_1_1.xml" timestamp="1526961077148" />
+    <file path="C:\Users\TARUC\MyFirstApp\.idea\libraries\Gradle__com_android_support_appcompat_v7_27_1_1.xml" timestamp="1526961077161" />
+    <file path="C:\Users\TARUC\MyFirstApp\.idea\libraries\Gradle__com_android_support_constraint_constraint_layout_1_1_0.xml" timestamp="1526961077176" />
+    <file path="C:\Users\TARUC\MyFirstApp\.idea\libraries\Gradle__com_android_support_constraint_constraint_layout_solver_1_1_0_jar.xml" timestamp="1526961077188" />
+    <file path="C:\Users\TARUC\MyFirstApp\.idea\libraries\Gradle__com_android_support_support_annotations_27_1_1_jar.xml" timestamp="1526961077209" />
+    <file path="C:\Users\TARUC\MyFirstApp\.idea\libraries\Gradle__com_android_support_support_compat_27_1_1.xml" timestamp="1526961077225" />
+    <file path="C:\Users\TARUC\MyFirstApp\.idea\libraries\Gradle__com_android_support_support_core_ui_27_1_1.xml" timestamp="1526961077241" />
+    <file path="C:\Users\TARUC\MyFirstApp\.idea\libraries\Gradle__com_android_support_support_core_utils_27_1_1.xml" timestamp="1526961077255" />
+    <file path="C:\Users\TARUC\MyFirstApp\.idea\libraries\Gradle__com_android_support_support_fragment_27_1_1.xml" timestamp="1526961077271" />
+    <file path="C:\Users\TARUC\MyFirstApp\.idea\libraries\Gradle__com_android_support_support_vector_drawable_27_1_1.xml" timestamp="1526961077285" />
+    <file path="C:\Users\TARUC\MyFirstApp\.idea\libraries\Gradle__com_android_support_test_espresso_espresso_core_3_0_2.xml" timestamp="1526961077300" />
+    <file path="C:\Users\TARUC\MyFirstApp\.idea\libraries\Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2.xml" timestamp="1526961077314" />
+    <file path="C:\Users\TARUC\MyFirstApp\.idea\libraries\Gradle__com_android_support_test_monitor_1_0_2.xml" timestamp="1526961077328" />
+    <file path="C:\Users\TARUC\MyFirstApp\.idea\libraries\Gradle__com_android_support_test_runner_1_0_2.xml" timestamp="1526961077344" />
+    <file path="C:\Users\TARUC\MyFirstApp\.idea\libraries\Gradle__javax_inject_javax_inject_1_jar.xml" timestamp="1526961077388" />
+    <file path="C:\Users\TARUC\MyFirstApp\.idea\libraries\Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" timestamp="1526961077415" />
+    <file path="C:\Users\TARUC\MyFirstApp\.idea\misc.xml" timestamp="1537923697625" />
+    <file path="C:\Users\TARUC\MyFirstApp\.idea\modules.xml" timestamp="1526961077022" />
+    <file path="C:\Users\TARUC\MyFirstApp\.idea\runConfigurations.xml" timestamp="1526960928038" />
+    <file path="C:\Users\TARUC\MyFirstApp\.idea\vcs.xml" timestamp="1526961077007" />
+    <file path="C:\Users\TARUC\MyFirstApp\.idea\workspace.xml" timestamp="1538121998069" />
+    <file path="C:\Users\TARUC\MyFirstApp\MyFirstApp.iml" timestamp="1526961076926" />
+    <file path="C:\Users\TARUC\MyFirstApp\app\app.iml" timestamp="1538121998047" />
+  </project-files>
+</conversion>
+
